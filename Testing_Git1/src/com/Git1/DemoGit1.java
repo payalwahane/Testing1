@@ -12,6 +12,10 @@ public class DemoGit1
 	{
 		System.out.println("Hello M2");
 	}
+		public void m3()
+	{
+		System.out.println("Hello M3");
+	}
 	
   public static void main(String[] args) 
   {
